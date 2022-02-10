@@ -1,3 +1,3 @@
 # ikttt20220203
 #első commit
-#foryoupage
+#Sziasztok, ez itt egy blog lesz amiben megmutatom a póny gyűjteményem!
